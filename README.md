@@ -36,8 +36,8 @@ This project visualizes transactional customer order data to evaluate core sales
 ## 📂 Repository Structure
 ```plaintext
 ├── assets/
-│   └── dashboard.png        # Report screenshot
+│   └── customer_orders_dashboard.png    # Report screenshot
 ├── data/
-│   └── raw_data.csv         # Sample dataset (if applicable)
-├── customer_orders.pbix     # Power BI project file
-└── README.md                # Project documentation
+│   └── customer.csv, orders.csv         # Sample dataset (if applicable)
+├── customer_orders.pbix                 # Power BI project file
+└── README.md                            # Project documentation
