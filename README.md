@@ -26,13 +26,6 @@ This project visualizes transactional customer order data to evaluate core sales
 
 ---
 
-## 🖼️ Dashboard Preview
-> *Tip: Save a screenshot of your report page as `dashboard.png` inside an `assets` folder in your repository.*
-
-![Dashboard Preview](assets/dashboard.png)
-
----
-
 ## 📂 Repository Structure
 ```plaintext
 ├── assets/
